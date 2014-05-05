@@ -1,4 +1,4 @@
-First_repo_test
+datasciencescoursera
 ===============
 
-This is a test repo
+This is a test repository
